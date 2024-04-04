@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "DidUP for Windows 11 (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "DidUP for Windows 11 (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
