@@ -16,7 +16,7 @@ public partial class AreaStudentiViewModel : ObservableRecipient, INavigationAwa
 {
     // TODO: Set the default URL to display.
     [ObservableProperty]
-    private Uri source = new("https://www.portaleargo.it/auth/sso/login/?login_challenge=10bd8a7411334bb6b1e011a567b2d790");
+    private Uri source = new("https://www.portaleargo.it/argoweb/famiglia/index.jsf#");
 
     [ObservableProperty]
     private bool isLoading = true;
